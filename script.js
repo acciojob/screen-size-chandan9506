@@ -1,4 +1,4 @@
-//your JS code here. If required.
+
 let width = document.getElementById("width");
 let height = document.getElementById("height");
 
